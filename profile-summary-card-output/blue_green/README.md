@@ -25,10 +25,40 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/leejongil1046/leejongil1046/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/leejongil1046/leejongil1046/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/leejongil1046/leejongil1046/main/profile-summary-card-output/blue_green/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/leejongil1046/leejongil1046/main/profile-summary-card-output/blue_green/4-productive-time.svg)
 ```
 
     
